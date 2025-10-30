@@ -1,4 +1,4 @@
-# This is a public version of a school project I did
+# This is a public version of a school group project I did
 
 Should be able to just: `npm install`
 
