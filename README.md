@@ -1,3 +1,5 @@
+# This is a public version of a school project I did
+
 Should be able to just: `npm install`
 
 Audio Sources:
